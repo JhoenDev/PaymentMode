@@ -18,14 +18,17 @@
 ## Screenshots
 
 💾 Main Method <br>
+`PaymentApp.java`, instanciated two order orbjects: `order1` which specifies PaymentMethod, and `order2` which doesn't. <br>
 ![main](./imgs/main.png)
 <br>
 
-💾 Output 1 (Payment Method is specified) 
+💾 Output 1 (Payment Method is specified) <br>
+Print detail output for creation of `order1`<br>
 ![output1](./imgs/output1.png)
 <br>
 
-💾 Output 2 (Payment Method is not specified) 
+💾 Output 2 (Payment Method is not specified) <br>
+print detail output for creation of `order2`<br>
 ![output2](./imgs/output2.png)
 <br>
 
