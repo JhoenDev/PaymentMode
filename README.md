@@ -16,12 +16,12 @@ Object Oriented Programming
 
 ## This Contains
 ./src/ <br>
-- PaymentApp.java : Contains the main method of the project. Instantiates an example of an `Order` object.
-- Order.java : Has two constructors (one including PaymentMethod, two not including PaymentMethod)
-- PaymentMode.java : An interface for specific payment methods.
-- GCash.java : implements `PaymentMode`
-- Maya.java : implements `PaymentMode`
-- ShopeePay.java : implements `PaymentMode`
+- `PaymentApp.java` : Contains the main method of the project. Instantiates an example of an `Order` object.
+- `Order.java` : Has two constructors (one including PaymentMethod, two not including PaymentMethod)
+- `PaymentMode.java` : An interface for specific payment methods.
+- `GCash.java` : implements `PaymentMode`
+- `Maya.java` : implements `PaymentMode`
+- `ShopeePay.java` : implements `PaymentMode`
 
 ---
 
