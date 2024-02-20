@@ -1,7 +1,5 @@
 # PaymentMode - Object Oriented Programming
-<br>
 
-## Description
 📝 **A simple java program that demonstrates the concept of **inheritance** with the use of interface `Payment Mode` to create classes that are of specific modes of Payment: `GCash`, `Maya`, `ShopeePay`.** <br>
 
  *Note*: This project is a seatwork for my OOP subject. I was instructed to make a simple program out of a given uml class diagram. I added two contructors: one for when user specifies a Payment Method, two for when user doesn't specify a Payment Method. See instructions at the bottom.
@@ -17,9 +15,8 @@
 - `Maya.java` : implements `PaymentMode`
 - `ShopeePay.java` : implements `PaymentMode`
 
----
-
 ## Screenshots
+
 ### 💾 Main Method 
 ![main](./imgs/main.png)
 <br>
@@ -32,9 +29,9 @@
 ![output2](./imgs/output2.png)
 <br>
 
----
 
 ## SW Instructions
+
 > Develop a payment application that allows users to place orders for items, define the quantity, unit price, and choose a payment method (GCash, Maya, ShopeePay). The application should calculate the total amount based on the order details and any applicable discounts offered by the chosen payment method, storing the result in the totalAmount attribute of the Order class.
 >
 > **Specific requirements:** <nr>
