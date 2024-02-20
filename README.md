@@ -4,8 +4,9 @@
 
  *Note*: This project is a seatwork for my OOP subject. I was instructed to make a simple program out of a given uml class diagram. I added two contructors: one for when user specifies a Payment Method, two for when user doesn't specify a Payment Method. See instructions at the bottom.
 
-<br>
+
 ---
+
 <br>
 
 ## This Contains
@@ -22,17 +23,17 @@
 ## Screenshots
 
 #### 💾 Main Method <br>
-`PaymentApp.java`, instanciated two order orbjects: `order1` which specifies PaymentMethod, and `order2` which doesn't. <br><br>
+: `PaymentApp.java`, instanciated two order orbjects: `order1` which specifies PaymentMethod, and `order2` which doesn't. <br><br>
 ![main](./imgs/main.png)
 <br>
 
 #### 💾 Output 1 (Payment Method is specified) <br>
-Print detail output for creation of `order1`<br><br>
+: Print detail output for creation of `order1`<br><br>
 ![output1](./imgs/output1.png)
 <br>
 
 #### 💾 Output 2 (Payment Method is not specified) <br>
-print detail output for creation of `order2`<br><br>
+: Print detail output for creation of `order2`<br><br>
 ![output2](./imgs/output2.png)
 <br><br>
 
