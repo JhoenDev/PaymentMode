@@ -1,4 +1,4 @@
-package Payment;
+package src;
 
 public class Maya implements PaymentMode{
 
