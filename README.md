@@ -1,8 +1,6 @@
-### PaymentMode
+# PaymentMode
 Object Oriented Programming
-
 <br><br>
-
 ---
 
 ## Description
@@ -26,15 +24,15 @@ Object Oriented Programming
 ---
 
 ## Screenshots
-# Main Method 
+### Main Method 
 ![main](./imgs/main.png)
 <br><br>
 
-# Output 1 (Payment Method is specified) 
+### Output 1 (Payment Method is specified) 
 ![output1](./imgs/output1.png)
 <br><br>
 
-# Output 2 (Payment Method is not specified) 
+### Output 2 (Payment Method is not specified) 
 ![output2](./imgs/output2.png)
 <br><br>
 
