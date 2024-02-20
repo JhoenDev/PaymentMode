@@ -21,21 +21,15 @@
 
 ## Screenshots
 ### 💾 Main Method 
-<p align='center'>
 ![main](./imgs/main.png)
-</p>
 <br>
 
 ### 💾 Output 1 (Payment Method is specified) 
-<p align='center'>
 ![output1](./imgs/output1.png)
-</p>
 <br>
 
 ### 💾 Output 2 (Payment Method is not specified) 
-<p align='center'>
 ![output2](./imgs/output2.png)
-</p>
 <br>
 
 ---
@@ -50,7 +44,8 @@
 > The application should have concrete implementations of PaymentMode for GCash, Maya, ShopeePay: <br>
 > - GCash: Does not offer any discount (discount rate = 0.0)
 > - Maya: Offers a 5% discount (discount rate = 0.05)
-> - ShopeePay: Offers a 10% discount <br>
+> - ShopeePay: Offers a 10% discount 
+>
 > The application should allow users to set the payment method for an order and calculate the total amount, storing it in the totalAmount attribute.
 
 
