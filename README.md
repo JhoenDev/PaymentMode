@@ -1,7 +1,5 @@
-# PaymentMode
-Object Oriented Programming
-<br><br>
----
+# PaymentMode - Object Oriented Programming
+<br>
 
 ## Description
 **A simple java program that demonstrates the concept of **inheritance** with the use of interface `Payment Mode` to create classes that are of specific modes of Payment: `GCash`, `Maya`, `ShopeePay`.**
